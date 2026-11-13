@@ -1,5 +1,9 @@
 # AutoResearchClaw trial notes
 
+![Illustration of a cell and ranked gene tokens beside anemonefish in a sea anemone, joined by a DNA helix](assets/banner.webp)
+
+*Artwork reused from [Kaisar's research website](https://kays3.github.io/). AI-generated illustration, not a scientific result.*
+
 A record of a two-day trial of [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) (`researchclaw` 0.5.0, upstream commit `be4ba47`), a 23-stage pipeline that is meant to go from a research topic to a paper. We ran it on 5 and 6 November 2026 with a hosted model and with local models, on topics from our own work in genomics.
 
 **Result in one line: no run produced a paper.** The literature and design stages were useful with a strong model. The code stages did not work with the local model we tried.
